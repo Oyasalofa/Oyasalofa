@@ -1,7 +1,7 @@
 ### Hello My name is Afolasayo Ojediran
-* I am a Data Analyst
-* I am passionate about using data to drive actionable insights and inform decision-making.
-* Utilizing tools like; Googlesheets/Excel || SQL || Tableau || PowerBI
-* I am confident in my ability to analyze data and present insights in a clear and concise manner.
-* I am excited to continue growing my skills and making a positive impact in the industry.
-* Thank you for visiting my site and getting to know more about me!*
+* I am a Business Analyst and Product Owner.
+* I am passionate about creating user-centred solutions and driving business efficiency through technology.
+* Utilizing tools like Jira, Trello, Confluence, PowerBI, and SQL.
+* I am confident in translating business needs into actionable product features and managing product lifecycles.
+* I am excited to continue growing in the tech industry and contributing to impactful projects.
+* Thank you for visiting my profile and learning more about me!*
